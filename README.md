@@ -127,6 +127,7 @@ java -cp target/smacc-2.0-jar-with-dependencies.jar edu.cut.smacc.client.SmaccCl
 - "POST-DOCTORAL" Research Programme of the Cyprus University of Technology (ML-SMACC), August 2022 - August 2023
 - AWS Cloud Credits for Research Grant, Amazon Web Services, October 2022
 
+
 ## Contact
 - Elena Kakoulli, Neapolis University Pahos, [https://www.nup.ac.cy/faculty/elena-kakoulli/](https://www.nup.ac.cy/faculty/elena-kakoulli/)
 - Herodotos Herodotou, Cyprus University of Technology, [https://dicl.cut.ac.cy/](https://dicl.cut.ac.cy/)
